@@ -1,0 +1,86 @@
+[
+    {
+        "img": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2F0fGVufDB8fDB8fHww",
+        "nombre": "Alina",
+        "sexo": "Hembra",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Amigable y tierna"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2F0fGVufDB8fDB8fHww",
+        "nombre": "Ash",
+        "sexo": "Macho",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Amigable y tierno"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2F0fGVufDB8fDB8fHww",
+        "nombre": "Buzz",
+        "sexo": "Macho",
+        "edad": "24 - 60 meses",
+        "caracteristicas": "Dulce y extrovertido"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1618826411640-d6df44dd3f7a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2F0fGVufDB8fDB8fHww",
+        "nombre": "Bella",
+        "sexo": "Hembra",
+        "edad": "24 - 60 meses",
+        "caracteristicas": "Juguetona y energética"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1529778873920-4da4926a72c2?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Clark",
+        "sexo": "Macho",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Amigable y curioso"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Denise",
+        "sexo": "Hembra",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Juguetona"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1491485880348-85d48a9e5312?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Isabel",
+        "sexo": "Hembra",
+        "edad": "24 - 60 meses",
+        "caracteristicas": "Tranquila y amigable"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1559624989-7b9303bd9792?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Mac",
+        "sexo": "Macho",
+        "edad": "24 - 60 meses",
+        "caracteristicas": "Amable y energético"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1506891536236-3e07892564b7?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Mickey",
+        "sexo": "Macho",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Amigable"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1518288774672-b94e808873ff?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Priscilla",
+        "sexo": "Hembra",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Tierna y amigable"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1607242792481-37f27e1d74e1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Tammi",
+        "sexo": "Hembra",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Curiosa y energética"
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1618189063538-57c32befeb38?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGNhdHxlbnwwfHwwfHx8MA%3D%3D",
+        "nombre": "Tom",
+        "sexo": "Macho",
+        "edad": "8 - 24 meses",
+        "caracteristicas": "Tranquilo y amigable"
+    }
+]

@@ -1,0 +1,25 @@
+footer {
+    background-color: #163135;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3rem;
+}
+
+footer p {
+    color: #fff;
+}
+
+.lista-links-rs {
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+}
+
+.link-rs {
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+}

@@ -1,0 +1,57 @@
+.introduccion {
+    width: 75%;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.introduccion p {
+    font-size: 1.2rem;
+}
+
+.seccion-actividades {
+    background-color: #e5eae2;
+    padding-block: 2rem;
+}
+
+.subtitulo {
+    color: #163135;
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.contenedor-texto-actividades {
+    width: 85%;
+    margin-inline: auto;
+}
+
+.actividades {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    margin-top: 2rem;
+}
+
+.links-paginas-adopcion {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.links-paginas-adopcion h2 {
+    font-weight: 600;
+}
+
+.contenedor-botones {
+    display: flex;
+    margin-top: 1rem;
+    column-gap: 3rem;
+}
+
+@media (min-width: 1024px) {
+    .actividades {
+        flex-direction: row;
+        column-gap: 2rem;
+    }
+}

@@ -1,0 +1,53 @@
+.elemento-lista {
+    list-style-type: none;
+    width: 100%;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.card-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.card-nombre {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.card-sexo {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #1b9237;
+    background-color: #d9f9e1;
+    padding: 3px 8px;
+    border-radius: 8px;
+}
+
+.contenedor-card-info {
+    padding: 1rem;
+}
+
+.card-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-info-lista div {
+    display: flex;
+    align-items: center;
+    column-gap: 0.5rem;
+}
+
+.icono-edad {
+    position: relative;
+    left: -3px;
+}
