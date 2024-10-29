@@ -25,6 +25,7 @@ export default function AdopcionGatosPage() {
                                 sexo={gato.sexo}
                                 edad={gato.edad}
                                 caracteristicas={gato.caracteristicas}
+                                key={gato.nombre}
                             />
                         );
                     })}

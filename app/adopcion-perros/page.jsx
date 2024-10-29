@@ -25,6 +25,7 @@ export default function AdopcionPerrosPage() {
                                 sexo={perro.sexo}
                                 edad={perro.edad}
                                 caracteristicas={perro.caracteristicas}
+                                key={perro.nombre}
                             />
                         );
                     })}
